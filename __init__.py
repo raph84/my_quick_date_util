@@ -1,1 +1,1 @@
-import scan_and_apply_tz, ceil_date, floor_date, utcnow, get_tz, apply_tz_toronto, utc_to_toronto, parse_date, scan_and_apply_tz
+import my_quick_date_util.scan_and_apply_tz, my_quick_date_util.ceil_date, my_quick_date_util.floor_date, my_quick_date_util.utcnow, my_quick_date_util.get_tz, my_quick_date_util.apply_tz_toronto, my_quick_date_util.utc_to_toronto, my_quick_date_util.parse_date, my_quick_date_util.scan_and_apply_tz
