@@ -7,7 +7,7 @@ setup(name='my_quick_date_util',
       author='raph84',
       author_email='raph.berube@gmail.com',
       license='GNU GPLv3',
-      packages=['my_quick_date_util'],
+      #packages=['my_quick_date_util'],
       install_requires=[
           'pytz',
       ],
