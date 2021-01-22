@@ -1,7 +1,6 @@
 from setuptools import setup
 
 setup(name='myquickdateutil',
-      package_dir = {'': 'myquickdateutil'},
       version='0.1',
       description='Quick date functions for my location',
       url='http://github.com/raph84/my_quick_date_util',
